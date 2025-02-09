@@ -1,4 +1,4 @@
-#Hotel Booking Analysis 📊
+#**Hotel Booking Analysis** 📊
 This project analyzes hotel booking data to identify trends, cancellations, and customer behavior. It includes raw booking details, aggregated insights, and a dashboard for visualization.
 
 📂 Dataset Overview
